@@ -1,0 +1,27 @@
+
+body{
+    background-image: url(https://i.pinimg.com/originals/14/8d/ef/148def99a5de5190cf1e9de1e202961a.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 30px;
+    margin: 0;
+}
+h1{
+    color:white;
+    font-size:300%;
+    font-family:"Radiance","Noto Sans",sans-serif;
+    padding: 30px;
+    margin: 0;
+    text-align:center;
+}
+h2{
+    color:white;
+    font-style:oblique;
+    font-family:"Radiance","Noto Sans",sans-serif;
+}
+p{
+    color:white;
+    font-size:250%;
+    font-family:"Radiance","Noto Sans",sans-serif;
+}
